@@ -1,0 +1,16 @@
+main: me.deceptions.reservedslots.Main
+name: ReservedSlots
+version: 1.5
+author: FXA
+description: Reserve slots for your premium players!
+
+commands:
+  reservedslots:
+    description: Main command for ReservedSlots.
+    aliases: [rs]
+
+permissions:   
+  reservedslots.bypass:
+    description: Allows you to join a full server.
+  reservedslots.admin: 
+    description: Allows you to do admin commands!
